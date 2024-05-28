@@ -1,5 +1,5 @@
-FROM python:3.10
-LABEL maintainer="Lois"
+FROM python:3.11
+LABEL maintainer="Lois Li"
 
 # copy files from the host to the container filesystem. 
 # For example, all the files in the current directory
